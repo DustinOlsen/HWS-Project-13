@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BB37BF572614E7F9005521E5 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB37BF562614E7F9005521E5 /* ImagePicker.swift */; };
+		BB37BF582614E7F9005521E5 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB37BF562614E7F9005521E5 /* ImagePicker.swift */; };
 		BB5D184926026C9B00E0F780 /* HWS_Project_13App.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB5D183626026C9A00E0F780 /* HWS_Project_13App.swift */; };
 		BB5D184A26026C9B00E0F780 /* HWS_Project_13App.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB5D183626026C9A00E0F780 /* HWS_Project_13App.swift */; };
 		BB5D184B26026C9B00E0F780 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB5D183726026C9A00E0F780 /* ContentView.swift */; };
@@ -16,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BB37BF562614E7F9005521E5 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 		BB5D183626026C9A00E0F780 /* HWS_Project_13App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HWS_Project_13App.swift; sourceTree = "<group>"; };
 		BB5D183726026C9A00E0F780 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BB5D183826026C9B00E0F780 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -59,6 +62,7 @@
 			children = (
 				BB5D183626026C9A00E0F780 /* HWS_Project_13App.swift */,
 				BB5D183726026C9A00E0F780 /* ContentView.swift */,
+				BB37BF562614E7F9005521E5 /* ImagePicker.swift */,
 				BB5D183826026C9B00E0F780 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -187,6 +191,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB37BF572614E7F9005521E5 /* ImagePicker.swift in Sources */,
 				BB5D184B26026C9B00E0F780 /* ContentView.swift in Sources */,
 				BB5D184926026C9B00E0F780 /* HWS_Project_13App.swift in Sources */,
 			);
@@ -196,6 +201,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB37BF582614E7F9005521E5 /* ImagePicker.swift in Sources */,
 				BB5D184C26026C9B00E0F780 /* ContentView.swift in Sources */,
 				BB5D184A26026C9B00E0F780 /* HWS_Project_13App.swift in Sources */,
 			);
